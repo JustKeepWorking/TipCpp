@@ -1,2 +1,3 @@
-# TipCpp
-Some Tip C++
+# Some Tip C++
+Rule of five
+
